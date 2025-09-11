@@ -1,4 +1,4 @@
-# EB1A Template for Self-Petition
+# EB1A Self-Petition Template
 
 Below you'll find my self-petitioned EB1A Green Card Template. The source template is derived from that of [Razvan Marinescu](https://razvanmarinescu.github.io/green-card-I-140/) who was the inspiration for me to self-petition my own EB1A green card. I would recommend you check out my [blogpost](https://ryan-rhys.github.io/ryan__rhys/blog/2025/eb1a/) as well as Razvan's before you start working with this template directly. If you have any questions please open a GitHub Issue so that others may benefit from the answers!
 
