@@ -65,6 +65,34 @@ Here I have included a full template for the [I-140](https://www.uscis.gov/i-140
 
 Ryan-Rhys Griffiths
 
+## Anonymized Forms
+
+⚠️ **IMPORTANT DISCLAIMERS** ⚠️
+
+These are anonymized examples of forms I submitted with my 2023 EB-1A 
+petition.
+
+**CRITICAL WARNINGS:**
+
+1. **Forms change frequently.** These may be outdated. Always use current 
+   form versions from USCIS.gov
+
+2. **Every case is different.** How I completed these forms may not be 
+   appropriate for your situation.
+
+3. **Form instructions change.** USCIS updates instructions regularly. 
+   Don't rely on how I completed forms in 2023.
+
+4. **Filing fees change.** The fees I paid in 2023 are likely different now.
+
+**BEFORE filing ANY forms:**
+- Download current versions from USCIS.gov
+- Read current form instructions carefully
+- Verify current filing fees
+
+**I have NO liability** for how you complete your forms. These examples 
+are provided for educational purposes only.
+
 ## Questions and Support
 
 ### ✅ What I CAN help with:
