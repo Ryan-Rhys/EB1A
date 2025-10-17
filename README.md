@@ -1,4 +1,39 @@
-# EB1A Self-Petition Template
+# EB1A Green Card Self-Petition Template
+
+═══════════════════════════════════════════════════════════════
+
+⚠️ LEGAL DISCLAIMER ⚠️
+
+═══════════════════════════════════════════════════════════════
+
+**THIS IS NOT LEGAL ADVICE. I AM NOT AN ATTORNEY.**
+
+This template is provided for **EDUCATIONAL AND INFORMATIONAL PURPOSES ONLY** 
+based on my successful EB-1A self-petition in 2023.
+
+**IMPORTANT WARNINGS:**
+
+- This template may be OUTDATED. Immigration law and USCIS policies change 
+  frequently. What worked in 2023 may not work today.
+
+- This template reflects MY specific situation and may not be appropriate 
+  for yours.
+
+- Using this template DOES NOT GUARANTEE approval of your EB-1A petition.
+
+- Every EB-1A case is unique. What worked for me may not work for you.
+
+**BY USING THIS TEMPLATE, YOU ACKNOWLEDGE:**
+
+1. You understand this is NOT legal advice
+2. You will NOT rely on this as a substitute for legal counsel
+3. You assume ALL risks of using this template
+4. You understand I have NO liability for your use of this template
+
+═══════════════════════════════════════════════════════════════
+
+
+# About This Template
 
 Below you'll find my self-petitioned EB1A Green Card Template. The source template is derived from that of [Razvan Marinescu](https://razvanmarinescu.github.io/green-card-I-140/) who was the inspiration for me to self-petition my own EB1A green card. I would recommend you check out my [blogpost](https://ryan-rhys.github.io/ryan__rhys/blog/2025/eb1a/) as well as Razvan's before you start working with this template directly. If you have any questions please open a GitHub Issue so that others may benefit from the answers!
 
