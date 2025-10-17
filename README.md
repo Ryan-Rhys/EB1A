@@ -49,7 +49,7 @@ or you may simply download the zipped folder from GitHub and re-upload it to [Ov
 
 ## Contents
 
-Here I have included a full template for the [I-140](https://www.uscis.gov/i-140) component of the EB1A application. Once the I-140 is approved you will need to submit the applicaton to register permanent residence, the [I-485](https://www.uscis.gov/i-485), separately. I chose to submit the forms separately as opposed to concurrently to save time in case the I-140 application was rejected. This template includes:
+Here I have included a full template for the [I-140](https://www.uscis.gov/i-140) component of the EB1A application. Once my I-140 was approved I needed to submit the applicaton to register permanent residence, the [I-485](https://www.uscis.gov/i-485), separately. I chose to submit the forms separately as opposed to concurrently to save time in case the I-140 application was rejected. This template includes:
 
 - Completed, anonymized administrative forms (I-140, G-1125, I-907)
 - I-140 is the immigrant petition for alien workers
