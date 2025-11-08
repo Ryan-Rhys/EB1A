@@ -83,7 +83,7 @@ petition.
 3. **Form instructions change.** USCIS updates instructions regularly. 
    Don't rely on how I completed forms in 2023.
 
-4. **Filing fees change.** The fees I paid in 2023 are likely different now.
+4. **Filing fees change.** The fees I paid in 2023 are different now.
 
 **BEFORE filing ANY forms:**
 - Download current versions from USCIS.gov
@@ -164,7 +164,7 @@ A: My costs were approximately:
 - I-907 premium processing: $2,500 (check current fee)
 - FedEx shipping: ~$50
 
-**Note:** These were 2023 prices. Fees change.
+**Note:** These were 2023 prices. Fees change. As of November 2025 the I-140 filing fee is $715 and there is an additional asylum program fee for self-petitioners of $300 (https://www.uscis.gov/g-1055?form=i-140)
 
 ### Q: Should I self-petition or hire an attorney?
 
@@ -181,6 +181,7 @@ A: **This is a personal decision that depends on:**
 changes frequently. Known changes since my petition include:
 
 - USCIS filing fees have increased (verify current fees)
+- As of April 1 2024, an additional asylum program fee has been introduced (https://www.uscis.gov/newsroom/alerts/uscis-reminds-certain-employment-based-petitioners-to-submit-the-correct-required-fees)
 
 **You MUST verify current requirements with:**
 - Official USCIS website (www.uscis.gov)
