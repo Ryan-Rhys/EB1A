@@ -192,7 +192,7 @@ changes frequently. Known changes since my petition include:
 ## Version History
 
 - **v1.0 (2025):** Initial public release based on 2023 petition
-- **Last Updated:** September 2025
+- **Last Updated:** November 2025
 - **Based on:** Petition filed November 2023, approved December 2023
 
 This template has NOT been updated for changes in immigration law since 
