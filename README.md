@@ -35,7 +35,7 @@ based on my successful EB-1A self-petition in 2023.
 
 # About This Template
 
-Below you'll find my self-petitioned EB1A Green Card Template. The source template is derived from that of [Razvan Marinescu](https://razvanmarinescu.github.io/green-card-I-140/) who was the inspiration for me to self-petition my own EB1A green card. I would recommend you check out my [blogpost](https://ryan-rhys.github.io/ryan__rhys/blog/2025/eb1a/) as well as Razvan's before you start working with this template directly. 
+Below you'll find my self-petitioned EB1A Green Card Template. The source template is derived from that of [Razvan Marinescu](https://razvanmarinescu.github.io/green-card-I-140/) who was the inspiration for me to self-petition my own EB1A green card. I would recommend you check out my [blogpost](https://ryan-rhys.github.io/ryan__rhys/blog/2025/eb1a/) as well as Razvan's before you start working with this template directly. You may also be interested in the questions and comments on the following [Reddit post](https://www.reddit.com/r/greencard/comments/1opfywh/im_opensourcing_my_complete_1600page_eb1a/).
 
 ## Installation
 
