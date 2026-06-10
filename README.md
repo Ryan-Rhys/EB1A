@@ -1,5 +1,10 @@
 # EB1A Green Card Self-Petition Template
 
+## New - June 2026
+
+Please connect with me on LinkedIn: https://www.linkedin.com/in/ryan-rhys-griffiths-689b73128/
+I expect to be publishing more EB1A-related educational content!
+
 ═══════════════════════════════════════════════════════════════
 
 ⚠️ LEGAL DISCLAIMER ⚠️
